@@ -1,5 +1,12 @@
+import Form from './components/Form'
+import Lorem from './components/Lorem'
+
 function App() {
-  return <h1>Hola</h1>
+  return (
+    <>
+      <Form />
+    </>
+  )
 }
 
 export default App
